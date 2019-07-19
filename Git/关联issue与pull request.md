@@ -3,4 +3,7 @@
 	close, closes, closed, fixes, fixed
 
 例如
-	
+
+	fixed #122
+
+这样在合并pr后会直接close对应的issue
